@@ -1,1 +1,0 @@
-# Atividade-Ass-ncrona-1---Padr-es-de-Projeto-Criacionais
